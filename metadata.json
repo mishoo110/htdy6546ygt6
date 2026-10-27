@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Coins Exchange Simulator",
+  "description": "Interactive replica of the TikTok coins exchange screens matching the reference screenshots with direct screen switcher and customizable balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
